@@ -1,0 +1,27 @@
+
+bg1Texture.png
+size: 948,1010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg0
+  rotate: false
+  xy: 2, 477
+  size: 946, 533
+  orig: 946, 533
+  offset: 0, 0
+  index: 0
+bg0
+  rotate: false
+  xy: 2, 221
+  size: 946, 254
+  orig: 946, 254
+  offset: 0, 0
+  index: 2
+bg0
+  rotate: false
+  xy: 2, 2
+  size: 946, 217
+  orig: 946, 217
+  offset: 0, 0
+  index: 1

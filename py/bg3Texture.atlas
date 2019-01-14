@@ -1,0 +1,27 @@
+
+bg3Texture.png
+size: 948,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 469
+  size: 946, 533
+  orig: 946, 533
+  offset: 0, 0
+  index: 0
+bg2
+  rotate: false
+  xy: 2, 234
+  size: 946, 233
+  orig: 946, 233
+  offset: 0, 0
+  index: 2
+bg3
+  rotate: false
+  xy: 2, 2
+  size: 946, 230
+  orig: 946, 230
+  offset: 0, 0
+  index: 1
