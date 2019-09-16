@@ -29,3 +29,6 @@
 
     10、使用git push origin master ，将本地仓库推送到远程仓库
 
+### https://yq.aliyun.com/articles/277118?utm_content=m_42641
+https://mitmath.github.io/1806/(mit线性代数)
+
