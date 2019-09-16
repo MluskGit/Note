@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "F:\\py2\\python.exe",
+    "python.jediEnabled": false,
+    "python.formatting.provider": "autopep8"
+}
